@@ -18,7 +18,7 @@
 ## 学習計画（1〜2日で1章目安）
 - [x] **Tensors**: Tensorの基本操作とプロパティ
 - [x] **Datasets & DataLoaders**: データの読み込みと前処理
-- [ ] **Transforms**: データの変換処理
+- [x] **Transforms**: データの変換処理
 - [ ] **Build the Neural Network**: ネットワーク層の構築
 - [ ] **Automatic Differentiation (torch.autograd)**: 自動微分と勾配計算
 - [ ] **Optimization (Optimizing Model Parameters)**: パラメータの最適化とループ
